@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "FullNameCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7084"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31218,
+      "useSSL": false
+    }
+  }
+}

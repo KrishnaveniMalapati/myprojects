@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Payment": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7183"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30740,
+      "useSSL": false
+    }
+  }
+}

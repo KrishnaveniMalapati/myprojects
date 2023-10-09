@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MSysPaymentGateway": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}

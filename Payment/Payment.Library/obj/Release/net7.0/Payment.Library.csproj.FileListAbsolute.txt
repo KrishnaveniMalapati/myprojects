@@ -1,0 +1,12 @@
+D:\OnGoingProjects\Payment\Payment.Library\bin\Release\net7.0\Payment.Library.deps.json
+D:\OnGoingProjects\Payment\Payment.Library\bin\Release\net7.0\Payment.Library.dll
+D:\OnGoingProjects\Payment\Payment.Library\bin\Release\net7.0\Payment.Library.pdb
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.csproj.AssemblyReference.cache
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.AssemblyInfoInputs.cache
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.AssemblyInfo.cs
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.csproj.CoreCompileInputs.cache
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.dll
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\refint\Payment.Library.dll
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\Payment.Library.pdb
+D:\OnGoingProjects\Payment\Payment.Library\obj\Release\net7.0\ref\Payment.Library.dll

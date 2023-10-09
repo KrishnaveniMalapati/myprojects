@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MSys.Library.Logger.Tests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62941;http://localhost:62942"
+    }
+  }
+}

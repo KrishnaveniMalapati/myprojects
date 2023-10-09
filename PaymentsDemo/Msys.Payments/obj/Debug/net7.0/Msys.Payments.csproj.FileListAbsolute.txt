@@ -1,0 +1,12 @@
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\bin\Debug\net7.0\Msys.Payments.deps.json
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\bin\Debug\net7.0\Msys.Payments.dll
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\bin\Debug\net7.0\Msys.Payments.pdb
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.csproj.AssemblyReference.cache
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.AssemblyInfoInputs.cache
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.AssemblyInfo.cs
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.csproj.CoreCompileInputs.cache
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.dll
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\refint\Msys.Payments.dll
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\Msys.Payments.pdb
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\ref\Msys.Payments.dll

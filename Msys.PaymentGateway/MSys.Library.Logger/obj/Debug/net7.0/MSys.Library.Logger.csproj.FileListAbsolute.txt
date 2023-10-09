@@ -1,0 +1,12 @@
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\bin\Debug\net7.0\MSys.Library.Logger.deps.json
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\bin\Debug\net7.0\MSys.Library.Logger.dll
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\bin\Debug\net7.0\MSys.Library.Logger.pdb
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.csproj.AssemblyReference.cache
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.AssemblyInfoInputs.cache
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.AssemblyInfo.cs
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.csproj.CoreCompileInputs.cache
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.dll
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\refint\MSys.Library.Logger.dll
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\MSys.Library.Logger.pdb
+D:\OnGoingProjects\MSys.PaymentGateway\MSys.Library.Logger\obj\Debug\net7.0\ref\MSys.Library.Logger.dll

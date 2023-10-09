@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xoByj9xZUxHQw1UgNCNQf2H3t7p4g4ooo/K1/knY8Z0jK3dOcunosBAKatr+vUlTYXgBt0aWqpTR+Hp8I+ViQ==",
+  "success": true,
+  "projectFilePath": "D:\\OnGoingProjects\\WebApplication5\\WebApplication5\\StripePaymentCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\stripe.net\\42.6.0\\stripe.net.42.6.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

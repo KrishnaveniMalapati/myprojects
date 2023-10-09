@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{62323E3A-F0DB-4738-8DE0-96347E82132C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.Library", "Payment.Library\Payment.Library.csproj", "{A8B6663C-E88A-4541-A7D2-83BD72EC7E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62323E3A-F0DB-4738-8DE0-96347E82132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62323E3A-F0DB-4738-8DE0-96347E82132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62323E3A-F0DB-4738-8DE0-96347E82132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62323E3A-F0DB-4738-8DE0-96347E82132C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B6663C-E88A-4541-A7D2-83BD72EC7E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B6663C-E88A-4541-A7D2-83BD72EC7E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B6663C-E88A-4541-A7D2-83BD72EC7E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B6663C-E88A-4541-A7D2-83BD72EC7E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4AA923-CCA4-48F3-99A0-F9802E5E228D}
+	EndGlobalSection
+EndGlobal

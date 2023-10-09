@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkGbx+2vW1rhm5YqR1jdYHF8Y4wiVJKg36ZBH+w7XceN3gC4HAHZLg8xlzP1KazDpQvm4HXAjtfaIOvZxUb4nA==",
+  "success": true,
+  "projectFilePath": "D:\\OnGoingProjects\\MSys.PaymentGateway\\MSys.Library.Logger\\MSys.Library.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

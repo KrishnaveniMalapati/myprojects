@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripeWebApiExample", "StripeWebApiExample\StripeWebApiExample.csproj", "{28BC6DB3-BE9E-4498-B6DB-EA3359D14AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BC6DB3-BE9E-4498-B6DB-EA3359D14AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BC6DB3-BE9E-4498-B6DB-EA3359D14AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BC6DB3-BE9E-4498-B6DB-EA3359D14AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BC6DB3-BE9E-4498-B6DB-EA3359D14AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B8BB25-50EB-4D3D-B91C-67225B305212}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+2023-09-13 16:56:32 [Info] Test1 (D:\OnGoingProjects\MSys.Library.Logger.Tests\UnitTest1.cs:16): Testdddddddddddddddddddd
+[08:40:45.996 2023-09-14] [15] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd
+[08:43:02.101 2023-09-14] [14] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd
+[10:19:03.928 2023-09-14] [15] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd
+[10:23:05.404 2023-09-14] [15] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd
+[10:24:29.457 2023-09-14] [15] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd
+[10:30:07.968 2023-09-14] [15] [UnitTest1.cs, Test1, 16] [Info]: Testdddddddddddddddddddd

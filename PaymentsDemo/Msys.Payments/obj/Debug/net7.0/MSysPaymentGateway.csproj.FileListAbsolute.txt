@@ -1,0 +1,5 @@
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\MSysPaymentGateway.csproj.AssemblyReference.cache
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\MSysPaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\MSysPaymentGateway.AssemblyInfoInputs.cache
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\MSysPaymentGateway.AssemblyInfo.cs
+D:\OnGoingProjects\PaymentsDemo\Msys.Payments\obj\Debug\net7.0\MSysPaymentGateway.csproj.CoreCompileInputs.cache

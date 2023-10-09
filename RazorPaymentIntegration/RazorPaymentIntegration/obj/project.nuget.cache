@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMasM+vKCmIFplzHEouU+xsNcfyIXqOT4wVfCFB3TKfF6+qFavFt+MoT7E38u6C5W1+bbQ9D6zvV6NJqf/K0Yw==",
+  "success": true,
+  "projectFilePath": "D:\\OnGoingProjects\\RazorPaymentIntegration\\RazorPaymentIntegration\\RazorPaymentIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\razorpay\\3.0.2\\razorpay.3.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Razorpay 3.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Razorpay",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

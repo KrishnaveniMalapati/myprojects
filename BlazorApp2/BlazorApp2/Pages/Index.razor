@@ -1,0 +1,35 @@
+﻿@page "/"
+
+<PageTitle>VirtualAssistant</PageTitle>
+
+<div class="container">
+	<div class="row">
+		<div class="col-4">
+		</div>
+		<div class="col-4">
+			<div class="messages">
+				<div class="response">jkjkksdgghhbhjkjkjkjkjkjk</div>
+				<div class="question">jkjkjkhyguuh</div>
+			</div>
+			<div class="textmessage">
+				<input @bind="message" />
+				<button @onclick="SendMessage">Send</button>
+			</div>
+		</div>
+		<div class="col-4"></div>
+	</div>
+</div>
+
+@code{
+
+	public string message;
+	protected override async Task OnInitializedAsync()
+	{
+
+	}
+
+	public async Task SendMessage()
+	{
+		
+	}
+}

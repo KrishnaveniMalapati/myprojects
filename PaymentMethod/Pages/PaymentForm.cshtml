@@ -1,0 +1,31 @@
+﻿@model CardDetails
+
+<h2>Payment Form</h2>
+
+<form method="post" asp-action="ProcessPayment">
+    <div class="form-group">
+        <label asp-for="CardNumber">Card Number:</label>
+        <input asp-for="CardNumber" class="form-control" />
+        <span asp-validation-for="CardNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ExpirationMonth">Expiration Month:</label>
+        <input asp-for="ExpirationMonth" class="form-control" />
+        <span asp-validation-for="ExpirationMonth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ExpirationYear">Expiration Year:</label>
+        <input asp-for="ExpirationYear" class="form-control" />
+        <span asp-validation-for="ExpirationYear" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CVV">CVV:</label>
+        <input asp-for="CVV" class="form-control" />
+        <span asp-validation-for="CVV" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Payment</button>
+</form>

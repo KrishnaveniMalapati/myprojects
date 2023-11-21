@@ -1,3 +1,6 @@
+using StripeWebApiExample;
+using StripeWebApiExample.StripeInfrastructor;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Add Stripe Infrastructure
+builder.Services.AddStripeInfrastructure(builder.Configuration);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

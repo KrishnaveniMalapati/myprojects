@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPb8z8xXqrQYmzLx9OShM8ZIKOqlyFvsnGtOeH8G5VfYlRRaXtfikZYORL/ybAY8oQYEs+0wIvAwbpvEP+EXkw==",
+  "success": true,
+  "projectFilePath": "D:\\OnGoingProjects\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\langchain.providers.abstractions\\0.11.0-preview.0.111\\langchain.providers.abstractions.0.11.0-preview.0.111.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\langchain.providers.openai\\0.11.0-preview.0.111\\langchain.providers.openai.0.11.0-preview.0.111.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\tiktoken\\1.1.3\\tiktoken.1.1.3.nupkg.sha512",
+    "C:\\Users\\malapati.krishnaveni\\.nuget\\packages\\tryagi.openai\\1.8.2\\tryagi.openai.1.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

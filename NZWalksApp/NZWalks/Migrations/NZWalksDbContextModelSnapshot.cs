@@ -35,6 +35,23 @@ namespace NZWalks.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Difficulties");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("dd4c0950-fb61-4c20-8b5b-70592aafc614"),
+                            Name = "Easy"
+                        },
+                        new
+                        {
+                            Id = new Guid("48fbe5c5-1f55-4545-a360-6dd6a0414a4f"),
+                            Name = "Medium"
+                        },
+                        new
+                        {
+                            Id = new Guid("149d4cfa-347f-46ee-abd3-e33f9197fd2e"),
+                            Name = "Hard"
+                        });
                 });
 
             modelBuilder.Entity("NZWalks.Models.Domain.Region", b =>
@@ -57,6 +74,15 @@ namespace NZWalks.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Regions");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("a6396964-9e21-45e5-a9d4-6ff284112164"),
+                            Code = "AWL",
+                            Name = "Auckland",
+                            RegionImageUrl = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.newzealand.com%2Fassets%2FTourism-NZ%2FAuckland%2F98618569ff%2Fimg-1536065871-6217-4403-p-10D1D0BD-B88E-AAB3-AE3F2E903EF65717-2544003__aWxvdmVrZWxseQo_CropResizeWzEyMDAsNjMwLDc1LCJqcGciXQ.jpg&tbnid=afMD--rWiAoJ1M&vet=12ahUKEwiA3NmT98KCAxWffWwGHWF3DWoQMygBegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.newzealand.com%2Fin%2Fauckland%2F&docid=LplqmIiu5MkpZM&w=1200&h=630&q=auckland&ved=2ahUKEwiA3NmT98KCAxWffWwGHWF3DWoQMygBegQIARBv"
+                        });
                 });
 
             modelBuilder.Entity("NZWalks.Models.Domain.Walk", b =>
